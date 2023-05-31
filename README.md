@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaseemali2
+- 👋 Hi, I’m @jaseem_ali_kaniyath
 - 👀 I’m interested in ...Data Analysis,Data Science,Python,SQL
 - 🌱 I’m currently learning ...Data Analysis,Data Science,Python,SQL
 - 💞️ I’m looking to collaborate on ...
